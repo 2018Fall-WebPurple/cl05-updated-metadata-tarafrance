@@ -1,0 +1,27 @@
+/*
+*Tara Frane
+*November 5, 2018
+*Metadata
+*/
+
+/* The Universal selector */
+
+*{ 
+
+}
+
+/* Body attributes here */
+body {
+font-family: arial, "Times New Roman", fantasy;
+}
+h1 { text-decoration: underline;
+    font-size: 150%;
+    text-align: center; 
+    background-color: aquamarine; }
+p {
+    background-color: white; 
+    color: blueviolet; }
+header { background-color: khaki;}
+main { background-color: darkseagreen;}
+img { float: left; }
+footer { background-color: beige;}
